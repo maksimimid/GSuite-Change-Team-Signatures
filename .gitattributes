@@ -1,0 +1,4 @@
+*.csv linguist-detectable=false
+*.mustache linguist-detectable=false
+*.txt linguist-detectable=false
+*.py linguist-detectable=true
