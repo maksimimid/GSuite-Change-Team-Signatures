@@ -1,7 +1,7 @@
 Manage team GSuite signatures
 =============================
 
-Managing signatures by hand could be a realy headacke. 
+Managing signatures by hand could be a realy headache. 
 Try to use python script to automate this process. 
 
 Requirements
